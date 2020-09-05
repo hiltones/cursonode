@@ -1,0 +1,6 @@
+# Ignorar estes arquivos
+
+node_modules/
+
+*.zip
+*.rar
